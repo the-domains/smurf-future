@@ -1,7 +1,7 @@
 name: Smurf-Future
 favicon: null
-layout_spectrum: 0.1772461065556854
-typography_spectrum: 0.021425723796710372
+layout_spectrum: 0.94222
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5181250399909914
+    - '#b70000'
+    - '#fcfafb'
+    - '#dda3ac'
+    - '#c23940'
+    - '#d07c85'
+  brandStrength: 0.75
   lightness: 0.4698934678453952
   saturation: 0.24618240701965988
   rhythmicContrast: 0.39623703877441585
