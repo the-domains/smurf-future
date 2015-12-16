@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Smurf-Future]]></title>
+        <description><![CDATA[Smurf-Future]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 10:40:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cupcake ipsum dolor sit amet]]></title>
+            <description><![CDATA[<article><h1>Cupcake ipsum dolor sit amet</h1><p>Cupcake ipsum dolor sit amet tart oat cake caramels sugar plum. Chocolate wafer sugar plum. Ice cream lollipop jujubes macaroon croissant dessert toffee. </p></article>]]></description>
+            <link>undefinedcupcake-ipsum-dolor-sit-amet/index.html</link>
+            <guid isPermaLink="false">b4706401-91b8-4e66-93c5-0e357c89b22b</guid>
+            <pubDate>Wed, 16 Dec 2015 10:40:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
